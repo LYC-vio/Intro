@@ -1,2 +1,3 @@
 # Yichen Liu
-this is a simple test of my draft personal website
+Hi and welcome to my personal website!
+
