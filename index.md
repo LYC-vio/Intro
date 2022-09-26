@@ -12,11 +12,11 @@ Feb 2021 - Now TN, USA
 - Computer Science PhD candidate, 2021 spring semester admission
 
 ## Research Experience
-1. **Research Assistant at MediaLab (Jan 2019-Jun 2020 Sichuan, China)**
+1. **Research Assistant at MediaLab** (Jan 2019-Jun 2020 Sichuan, China)
     - Participated in the design of a Deep Neural Networks based car brand recognition system
-2. **Summer intern at Stanford (Jul-Sep 2019 CA, USA)**
+2. **Summer intern at Stanford** (Jul-Sep 2019 CA, USA)
     - Participated in the design of Aquila_stLFR, a diploid genome assembly based structural variant calling package for stLFR linked-reads and published it to Bioconda.
-3. **Research Assistant at Maizie Zhou’s Lab (Feb 2021 - Now TN, USA)**
+3. **Research Assistant at Maizie Zhou’s Lab** (Feb 2021 - Now TN, USA)
     - Simulated the short-term working memory by training Recurrent Neural Networks on series of cognitive tasks, and analyzed the neuron patterns in different maturation stages
     - Evaluated current state-of-art long read based structural variant callers against multiple long read sequencing datasets, and designed comprehensive comparisons to reveal their properties under different scenarios
 
