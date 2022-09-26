@@ -1,7 +1,7 @@
 # Yichen (Henry) Liu
 Hi and welcome to my personal website!
 
-I'm a reasearch assistant at [Maizie Zhou's lab](https://lab.vanderbilt.edu/maizie-zhou-lab/), Vanderbilt University, 
+I'm a reasearch assistant at [Maizie Zhou's lab](https://lab.vanderbilt.edu/maizie-zhou-lab/), Vanderbilt University. My research interests lie primarily in the area of computational genomics, computational neuroscience and deep learning etc. I did my bachelors at School of Information and Communication Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)
 
 ## Education
 ### University of Electronic Science and Technology of China 
