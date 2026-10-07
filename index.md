@@ -14,16 +14,14 @@ Feb 2021 - Now TN, USA
 - Computer Science PhD candidate, 2021 spring semester admission
 
 ## Research Experience
-1. Research Assistant at MediaLab (Jan 2019-Jun 2020 Sichuan, China)
-2. Summer intern at Stanford (Jul-Sep 2019 CA, USA)
-3. Research Assistant at Maizie Zhou’s Lab (Feb 2021 - Now TN, USA)
+- Research Assistant at MediaLab (Jan 2019-Jun 2020 Sichuan, China)
+- Summer intern at Stanford (Jul-Sep 2019 CA, USA)
+- Research Assistant at Maizie Zhou’s Lab (Feb 2021 - Now TN, USA)
 
 ## Awards
-**Lacy-Fischer Interdisciplinary Research Grant**, School of Engineering, Vanderbilt University	2026
-
-**Outstanding Graduate Student Research Paper Award**, School of Engineering, Vanderbilt University	2024 - 2025
-
-**Outstanding Student Scholarship** (top 9%, three-time recipient), UESTC	2017, 2018, 2019
+- **Lacy-Fischer Interdisciplinary Research Grant**, School of Engineering, Vanderbilt University	2026
+- **Outstanding Graduate Student Research Paper Award**, School of Engineering, Vanderbilt University	2024 - 2025
+- **Outstanding Student Scholarship** (top 9%, three-time recipient), UESTC	2017, 2018, 2019
 
 ## First/Co-first Authored Publications
 _† These authors contributed equally._
