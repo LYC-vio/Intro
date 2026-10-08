@@ -15,7 +15,6 @@ Feb 2021 - Now TN, USA
 
 ## Research Experience
 - Research Assistant at MediaLab (Jan 2019-Jun 2020 Sichuan, China)
-- Summer intern at Stanford (Jul-Sep 2019 CA, USA)
 - Research Assistant at Maizie Zhou’s Lab (Feb 2021 - Now TN, USA)
 
 ## Awards
