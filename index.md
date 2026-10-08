@@ -15,6 +15,7 @@ Feb 2021 - Now TN, USA
 
 ## Research Experience
 - Research Assistant at MediaLab (Jan 2019-Jun 2020 Sichuan, China)
+- asdasdd
 - Research Assistant at Maizie Zhou’s Lab (Feb 2021 - Now TN, USA)
 
 ## Awards
